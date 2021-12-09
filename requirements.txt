@@ -17,7 +17,6 @@ bs4==0.0.1
 certifi==2019.11.28
 chardet==3.0.4
 charset-normalizer==2.0.9
-chrome-gnome-shell==0.0.0
 click==8.0.3
 cloudpickle==2.0.0
 colorama==0.4.3
